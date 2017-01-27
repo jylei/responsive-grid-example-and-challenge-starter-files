@@ -12,6 +12,12 @@ main .row {
   padding-top: 30px;
 }
 
+.box2{
+  height:100px;
+  text-align:center;
+  padding-top:15px;
+}
+
 .black {
   background-color: black;
   color: white;
